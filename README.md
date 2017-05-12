@@ -78,9 +78,8 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 
   1. Add `exlam` to your list of dependencies in `mix.exs`:
 
-    ```elixir
+  ```elixir
     def deps do
       [{:exlam, "~> 0.1.0"}]
     end
-    ```
-
+  ```
